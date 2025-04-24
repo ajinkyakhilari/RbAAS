@@ -8,3 +8,7 @@ quality: 10                                   # Quality threshold for fastp
 min_length: 100                               # Minimum read length after trimming
 max_length: 1200                              # Maximum read length for fastp
 threads: 8                                    # Number of threads to use in each rule
+
+# Optional toggles
+trim_primers: false                           # Set to true to enable ivar-based primer removal
+
