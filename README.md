@@ -1,6 +1,6 @@
 # 🧬 nanoAmpRef: Reference-Based Amplicon Assembly Pipeline (Nanopore)
 
-`nanoAmpRef` is a Snakemake-powered pipeline for **reference-based assembly of amplicons** sequenced using **Oxford Nanopore Technology (ONT)**. It performs quality filtering, alignment, primer trimming, variant calling, and masked consensus sequence generation — perfect for amplicon panels like *Plasmodium falciparum* drug resistance.
+`nanoAmpRef` is a Snakemake-powered pipeline for **reference-based assembly of amplicons** sequenced using **Oxford Nanopore Technology (ONT)**. It performs quality filtering, alignment, primer trimming, variant calling, and masked consensus sequence generation.
 
 ---
 
