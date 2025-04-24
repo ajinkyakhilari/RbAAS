@@ -1,2 +1,3 @@
 # RbAAS
-Reference based Amplicon Assembly Scrip
+Reference based Amplicon Assembly Script
+
