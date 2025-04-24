@@ -1,0 +1,7 @@
+name: bcftools_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools
+  - samtools

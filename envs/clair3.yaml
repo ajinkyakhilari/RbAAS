@@ -1,0 +1,7 @@
+name: clair3_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - clair3
+  - tabix
