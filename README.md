@@ -19,7 +19,7 @@
 
 ## 📁 Directory Structure
 
-project/ ├── snakefile ├── envs/ │ ├── fastp.yaml │ ├── minimap2.yaml │ ├── ivar.yaml │ ├── clair3.yaml │ └── bcftools.yaml ├── run_pipeline.sh # optional wrapper └── fastq_pass/ ├── barcode01/ │ └── *.fastq └── barcode02/ └── *.fastq
+project/ ├── snakefile ├── envs/ │ ├── fastp.yaml │ ├── minimap2.yaml │ ├── ivar.yaml │ ├── clair3.yaml │ └── bcftools.yaml | └── fastq_pass/ ├── barcode01/ │ └── *.fastq └── barcode02/ └── *.fastq
 
 
 
