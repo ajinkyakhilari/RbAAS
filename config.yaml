@@ -1,0 +1,10 @@
+sample_dir: /path/to/barcoded_samples         # Directory with barcode folders (e.g., barcode01, barcode02)
+output_dir: /path/to/output_directory         # Where all output files will be written
+ref: /path/to/reference_genome.fasta          # Path to your reference genome
+primer_bed: /path/to/primers.bed              # BED file containing primer positions
+
+# Parameters
+quality: 10                                   # Quality threshold for fastp
+min_length: 100                               # Minimum read length after trimming
+max_length: 1200                              # Maximum read length for fastp
+threads: 8                                    # Number of threads to use in each rule
