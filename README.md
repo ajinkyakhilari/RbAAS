@@ -47,7 +47,7 @@ snakemake --cores 8 --use-conda \
     min_length=150 \
     max_length=2000 \
     threads=8
-    trim_primer=True (If primer removal step is intended, for this step primer bed file will be required)
+    trim_primer=true (If primer removal step is intended, for this step primer bed file will be required)
 ```
 
 ## ✅ Run from another directory
